@@ -1,0 +1,1 @@
+# text_summarizer this project is on Text Summarizer using NLP - natural language processing. it opens a summary window where you have to input your text and no of lines the text should have.make sure to have the needed libraries.
